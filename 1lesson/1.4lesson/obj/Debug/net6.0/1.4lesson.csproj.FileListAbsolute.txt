@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\bin\Debug\net6.0\1.4lesson.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\bin\Debug\net6.0\1.4lesson.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\bin\Debug\net6.0\1.4lesson.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\bin\Debug\net6.0\1.4lesson.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\bin\Debug\net6.0\1.4lesson.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\1.4lesson.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\1.4lesson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\1.4lesson.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\1.4lesson.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\1.4lesson.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\1.4lesson.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\refint\1.4lesson.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\1.4lesson.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\1.4lesson.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\1lesson\1.4lesson\obj\Debug\net6.0\ref\1.4lesson.dll
