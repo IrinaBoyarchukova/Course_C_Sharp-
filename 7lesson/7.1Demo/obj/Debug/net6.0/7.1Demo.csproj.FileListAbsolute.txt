@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\bin\Debug\net6.0\7.1Demo.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\bin\Debug\net6.0\7.1Demo.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\bin\Debug\net6.0\7.1Demo.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\bin\Debug\net6.0\7.1Demo.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\bin\Debug\net6.0\7.1Demo.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\7.1Demo.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\7.1Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\7.1Demo.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\7.1Demo.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\7.1Demo.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\7.1Demo.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\refint\7.1Demo.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\7.1Demo.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\7.1Demo.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\7.1Demo\obj\Debug\net6.0\ref\7.1Demo.dll
