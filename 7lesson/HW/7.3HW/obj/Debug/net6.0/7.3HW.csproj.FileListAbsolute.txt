@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\7.3HW.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\7.3HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\7.3HW.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\7.3HW.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\7.3HW.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\bin\Debug\net6.0\7.3HW.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\bin\Debug\net6.0\7.3HW.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\bin\Debug\net6.0\7.3HW.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\bin\Debug\net6.0\7.3HW.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\bin\Debug\net6.0\7.3HW.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\7.3HW.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\refint\7.3HW.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\7.3HW.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\7.3HW.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\7lesson\HW\7.3HW\obj\Debug\net6.0\ref\7.3HW.dll
