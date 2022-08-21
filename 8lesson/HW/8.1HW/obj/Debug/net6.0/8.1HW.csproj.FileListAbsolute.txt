@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\bin\Debug\net6.0\8.1HW.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\bin\Debug\net6.0\8.1HW.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\bin\Debug\net6.0\8.1HW.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\bin\Debug\net6.0\8.1HW.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\bin\Debug\net6.0\8.1HW.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\8.1HW.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\8.1HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\8.1HW.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\8.1HW.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\8.1HW.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\8.1HW.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\refint\8.1HW.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\8.1HW.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\8.1HW.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\8lesson\HW\8.1HW\obj\Debug\net6.0\ref\8.1HW.dll
