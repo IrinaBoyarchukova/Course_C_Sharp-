@@ -1,0 +1,15 @@
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\9.4.csproj.AssemblyReference.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\9.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\9.4.AssemblyInfoInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\9.4.AssemblyInfo.cs
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\9.4.csproj.CoreCompileInputs.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\bin\Debug\net6.0\9.4.exe
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\bin\Debug\net6.0\9.4.deps.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\bin\Debug\net6.0\9.4.runtimeconfig.json
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\bin\Debug\net6.0\9.4.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\bin\Debug\net6.0\9.4.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\9.4.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\refint\9.4.dll
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\9.4.pdb
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\9.4.genruntimeconfig.cache
+C:\Users\zamd12U\Desktop\Greekbarains\Знакомство с языками программирования с# (шарп)\Course_C_Sharp-\9lesson\9.4\obj\Debug\net6.0\ref\9.4.dll
