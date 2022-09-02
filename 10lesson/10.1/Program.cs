@@ -1,4 +1,11 @@
-﻿// Вывести квадрат числа 
-Console.WriteLine("Write a number: ");
+﻿// По двум заданным числам проверять является ли первое квадратом второго
+Console.WriteLine("Write a number a: ");
 int a = int.Parse(Console.ReadLine());
-    Console.WriteLine(a * a);
+
+Console.WriteLine("Write a number b: ");
+int b = int.Parse(Console.ReadLine());
+
+if (a * a == b)
+    Console.WriteLine("Да");
+else
+    Console.WriteLine("Нет");
