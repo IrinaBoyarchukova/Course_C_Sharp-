@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zamd12U\\Desktop\\Greekbarains\\Знакомство с языками программирования с# (шарп)\\Course_C_Sharp-\\10lesson\\10.2\\10.2.csproj",
-      "projectName": "10.2",
-      "projectPath": "C:\\Users\\zamd12U\\Desktop\\Greekbarains\\Знакомство с языками программирования с# (шарп)\\Course_C_Sharp-\\10lesson\\10.2\\10.2.csproj",
+      "projectUniqueName": "C:\\Users\\zamd12U\\Desktop\\Greekbarains\\Знакомство с языками программирования с# (шарп)\\Course_C_Sharp-\\10lesson\\10.3\\10.3.csproj",
+      "projectName": "10.3",
+      "projectPath": "C:\\Users\\zamd12U\\Desktop\\Greekbarains\\Знакомство с языками программирования с# (шарп)\\Course_C_Sharp-\\10lesson\\10.3\\10.3.csproj",
       "packagesPath": "C:\\Users\\zamd12U\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zamd12U\\Desktop\\Greekbarains\\Знакомство с языками программирования с# (шарп)\\Course_C_Sharp-\\10lesson\\10.2\\obj\\",
+      "outputPath": "C:\\Users\\zamd12U\\Desktop\\Greekbarains\\Знакомство с языками программирования с# (шарп)\\Course_C_Sharp-\\10lesson\\10.3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zamd12U\\AppData\\Roaming\\NuGet\\NuGet.Config"
